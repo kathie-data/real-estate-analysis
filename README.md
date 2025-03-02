@@ -84,8 +84,7 @@ This project analyzes **real estate prices** using Python. We explore key pricin
 ## 📞 Contact
 
 💡 **Author:** [Katherine Ponce]\
-🔗 **LinkedIn:** [https://n9.cl/n6a8r]
-
+🔗 **Connect with me:** [LinkedIn Profile](linkedin.com/in/katherine-ponce-6616441b3) 
 ---
 
 📢 If you find this project helpful, feel free to ⭐ star the repository and share your feedback! 🚀
